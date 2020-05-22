@@ -18,7 +18,7 @@ git clone https://github.com/msaifa/simpel-crud-php.git
 ```
 atau bisa mengunjungi repo pada : [simpel-crud](https://github.com/msaifa/simpel-crud-php)
 
-### 4. Tugas Optional (2)
+### 3. Tugas Optional (2)
 Untuk tugas optional ke 2 yaitu saya membuat simpel kasir, dengan bantuan framwork bootstrap sebagai UI dan php native sbg backend. Untuk source code bisa clone repostory : 
 ```bash
 git clone https://github.com/msaifa/simpel-kasir.git
