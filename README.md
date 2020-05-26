@@ -1,10 +1,9 @@
 # tugas-pemrograman-web
 Repo untuk Kumpulan Tugas Pemrograman Web. 
-Nama : M SAIF ALIKHAN
-KELAS: TI 2018 A
-NIM  : 18051204022
-Fakultas Teknik 
-Universitas Negeri Surabaya
+###### Nama : M SAIF ALIKHAN
+###### KELAS: TI 2018 A
+###### NIM  : 18051204022
+###### Fakultas Teknik Universitas Negeri Surabaya
 
 ### 1. Tugas Portfolio
 Tugas pertama ialah tugas portfolio, yang berisi HTML - CSS - JavaScript (Tanpa Framework). Untuk source code bisa clone repostory : 
